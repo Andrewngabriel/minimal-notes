@@ -1,7 +1,8 @@
 ## Minimal Notes
 
 A simple console application for note taking. You can read, remove and list the notes all from the terminal.
-I developed this small program to practice node.js
+
+I developed this program to practice node.js
 If you see any problems or things that can be improved, feel free to add it in the issues section.
 
 To use the program:
